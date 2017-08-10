@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdTesting", "AdTesting.csproj", "{D7F250A8-ACA7-C0A8-C9FD-94FC49277FEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7F250A8-ACA7-C0A8-C9FD-94FC49277FEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7F250A8-ACA7-C0A8-C9FD-94FC49277FEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7F250A8-ACA7-C0A8-C9FD-94FC49277FEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7F250A8-ACA7-C0A8-C9FD-94FC49277FEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
